@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmin 🌎☄️💕®</h1>
-<h3 align="center">I love building the product ideas I conceptualise. Striving to become the Bob the Builder of the tech world.</h3>
+<h3 align="center">Software engineer who is obsessed with software engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasminrei&label=Profile%20views&color=0e75b6&style=flat" alt="yasminrei" /> </p>
 
