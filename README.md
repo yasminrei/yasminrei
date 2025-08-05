@@ -1,5 +1,6 @@
 Hey👋, I'm Yasmin 🌎☄️💕®
-Software engineer with a plethora of ideas and an obsession with building
+
+I'm a software engineer with a plethora of ideas and an obsession with building
 
 - 🔭 I’m currently working on **a self-hosted Next.js app with a CMS for a local business**
 - 🌱 I’m currently evolving my knowledge on **the frameworks and development tools I already know, and digging into Computer Networking (which utilises knowledge of Devops & Cybersecurity)**
@@ -16,7 +17,7 @@ Connect with me:
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=appwrite,html,css,tailwind,js,ts,next,nodejs,docker,postgresql,react,figma&perline=6)]
+![My Skills](https://skillicons.dev/icons?i=appwrite,html,css,tailwind,js,ts,next,nodejs,docker,postgresql,react,figma&perline=6)
 
 Support:
 <p><a href="https://ko-fi.com/yasminrei"> <img align="" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yasminrei"  /></a></p>
