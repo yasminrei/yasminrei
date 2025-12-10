@@ -20,6 +20,4 @@ Languages and Tools:
 Support:
 <p><a href="https://ko-fi.com/yasminrei"> <img align="" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yasminrei"  /></a></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasminrei" alt="yasminrei" width="80%" /></a> </p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=yasminrei&label=Profile%20views&color=0e75b6&style=flat)
