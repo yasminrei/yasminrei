@@ -15,7 +15,7 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 
 ## Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=next,react,ts,js,nodejs,postgresql,express,html,css,tailwind,docker,jest,ubuntu,figma,postman,appwrite,supabase,vercel,netlify,notion,github,windows,apple,linux,vite,bun,git,pnpm,npm,svg,)
+![My Skills](https://skillicons.dev/icons?i=next,react,ts,js,nodejs,postgresql,express,elysia,html,css,tailwind,docker,jest,cloudflare,ubuntu,figma,postman,appwrite,supabase,vercel,netlify,notion,github,githubactions,windows,apple,linux,debian,ubuntu,vite,bun,git,pnpm,npm,svg,markdown)
 
 ## Support:
 <p><a href="https://ko-fi.com/yasminrei"> <img align="" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yasminrei"  /></a></p>
