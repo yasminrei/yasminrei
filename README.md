@@ -8,7 +8,7 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 - 📫 Reach out to me at **yasmireidev | at | gmail | dot | com**
 - ⚡ My username on social media platforms is usually **@yasminrei or @YasminReiDev.**
 
-## Connect with me
+### Connect with me
 
 [![Twitter](https://img.shields.io/badge/follow%20on-X-black?style=flat-square)](https://twitter.com/YasminReiDev)
 [![Linkedin](https://img.shields.io/badge/connect%20on-linkedin-blue?style=flat-square)](https://www.linkedin.com/in/yasminrei/)
