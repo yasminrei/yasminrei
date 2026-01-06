@@ -16,18 +16,17 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 ## Current Project: Website & App for a wellness & beauty brand
 
 ### Done
-- Core Stack
+- Core Engineering
     - Frontend: Next.js (App Router), React, Tailwind, CSS (for custom Tailwind classes)
-- Planning (Github Projects & Issues)
-- Design (Figma, Excalidraw)
-- Frontend (React, Tailwind, CSS (for custom Tailwind classes))
-- Backend (Typescript)
-- Database (PostgreSQL, Drizzle)
-- VPS (Linux (Debian, Ubuntu), Oracle Cloud)
-- CI/CD (Github Actions, Bash scripts, Docker - replaced Vercel)
-- Networking (Cloudflare (Zero-Trust Tunnels, DNS, Email forwarding with SPF, DMARC and DKIM), SSL/TLS (Cloudflare & Caddy))
-- SEO (Next.js SSG & Caching, Sitemap.xml & Robots.txt, OpenGraph, Structured Data (Compatible with Schema.org & Google Schema Markup via JSON-LD), Cloudflare Caching)
-- Analytics (Rybbit, Google Search Console - replaced Vercel)
+    - Backend: Typescript, Next.js (Server Actions), Drizzle ORM
+- Planning: Github (Projects & Issues)
+- Design: Figma, Excalidraw
+- Database: PostgreSQL (Dockerised)
+- VPS: Linux (Debian, Ubuntu), Oracle Cloud, other smaller VPS providers
+- CI/CD: Github Actions, Bash scripts, Docker - replaced Vercel
+- Networking: Cloudflare (Zero-Trust Tunnels, DNS, Email forwarding with SPF, DMARC and DKIM), SSL/TLS (Cloudflare & Caddy)
+- SEO: Next.js SSG & Caching, Sitemap.xml & Robots.txt, OpenGraph, Structured Data (Compatible with Schema.org & Google Schema Markup via JSON-LD), Cloudflare Edge Caching
+- Analytics: Rybbit, Google Search Console - replaced Vercel
 
 ### TBD (To be developed):
 - internationalisation (i18n)
