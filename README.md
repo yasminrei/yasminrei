@@ -13,11 +13,9 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 [![Twitter](https://img.shields.io/badge/follow%20on-X-black?style=flat-square)](https://twitter.com/YasminReiDev)
 [![Linkedin](https://img.shields.io/badge/connect%20on-linkedin-blue?style=flat-square)](https://www.linkedin.com/in/yasminrei/)
 
-## Current Project
+## Current Project: Website & App for a wellness & beauty brand
 
-### Website for a wellness & beauty brand - booking app system in progress
-
-#### Done
+### Done
 - Core Stack
     - Frontend: Next.js (App Router), React, Tailwind, CSS (for custom Tailwind classes)
 - Planning (Github Projects & Issues)
@@ -31,7 +29,7 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 - SEO (Next.js SSG & Caching, Sitemap.xml & Robots.txt, OpenGraph, Structured Data (Compatible with Schema.org & Google Schema Markup via JSON-LD), Cloudflare Caching)
 - Analytics (Rybbit, Google Search Console - replaced Vercel)
 
-#### TBD (To be developed):
+### TBD (To be developed):
 - internationalisation (i18n)
 - booking application system (considered elysia + bun for API, redis for caching - may stick with Next.js server actions due to VPS limits)
 - speed insights (considering OpenTelemetry + LGTM stack)
