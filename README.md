@@ -8,16 +8,41 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 - 📫 Reach out to me at **yasmireidev | at | gmail | dot | com**
 - ⚡ My username on social media platforms is usually **@yasminrei or @YasminReiDev.**
 
-## Connect with me:
+## Connect with me
 
 [![Twitter](https://img.shields.io/badge/follow%20on-X-black?style=flat-square)](https://twitter.com/YasminReiDev)
 [![Linkedin](https://img.shields.io/badge/connect%20on-linkedin-blue?style=flat-square)](https://www.linkedin.com/in/yasminrei/)
 
-## Languages and Tools:
+## Current Project
 
-![My Skills](https://skillicons.dev/icons?i=next,react,ts,js,nodejs,postgresql,express,elysia,html,css,tailwind,docker,jest,cloudflare,nginx,ubuntu,figma,postman,appwrite,supabase,vercel,netlify,notion,github,githubactions,windows,apple,linux,debian,ubuntu,vite,bun,git,pnpm,npm,svg,markdown)
+### Website for a wellness & beauty brand - booking app system in progress
 
-## Support:
+#### Done
+- Core Stack
+    - Frontend: Next.js (App Router), React, Tailwind, CSS (for custom Tailwind classes)
+- Planning (Github Projects & Issues)
+- Design (Figma, Excalidraw)
+- Frontend (React, Tailwind, CSS (for custom Tailwind classes))
+- Backend (Typescript)
+- Database (PostgreSQL, Drizzle)
+- VPS (Linux (Debian, Ubuntu), Oracle Cloud)
+- CI/CD (Github Actions, Bash scripts, Docker - replaced Vercel)
+- Networking (Cloudflare (Zero-Trust Tunnels, DNS, Email forwarding with SPF, DMARC and DKIM), SSL/TLS (Cloudflare & Caddy))
+- SEO (Next.js SSG & Caching, Sitemap.xml & Robots.txt, OpenGraph, Structured Data (Compatible with Schema.org & Google Schema Markup via JSON-LD), Cloudflare Caching)
+- Analytics (Rybbit, Google Search Console - replaced Vercel)
+
+#### TBD (To be developed):
+- internationalisation (i18n)
+- booking application system (considered elysia + bun for API, redis for caching - may stick with Next.js server actions due to VPS limits)
+- speed insights (considering OpenTelemetry + LGTM stack)
+- backup (Restic + Cloudflare R2)
+
+## All Languages and Tools
+
+![My Skills](https://skillicons.dev/icons?i=next,react,ts,js,nodejs,postgresql,express,elysia,bash,html,css,tailwind,docker,jest,cloudflare,nginx,ubuntu,figma,postman,appwrite,supabase,vercel,netlify,notion,github,githubactions,windows,apple,linux,debian,ubuntu,vite,bun,git,pnpm,npm,svg,markdown,)
+
+
+## Support
 <p><a href="https://ko-fi.com/yasminrei"> <img align="" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yasminrei"  /></a></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yasminrei&label=Profile%20views&color=0e75b6&style=flat)
