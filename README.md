@@ -27,6 +27,7 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 - Networking: Cloudflare (Zero-Trust Tunnels, DNS, Email forwarding with SPF, DMARC and DKIM), SSL/TLS (Cloudflare & Caddy), Tailscale
 - SEO: Next.js SSG & Caching, Sitemap.xml & Robots.txt, OpenGraph, Structured Data (Compatible with Schema.org & Google Schema Markup via JSON-LD), Cloudflare Edge Caching
 - Analytics: Rybbit, Google Search Console - replaced Vercel
+- Blog: Notion API
 
 ### TBD (To be developed):
 - internationalisation (i18n)
