@@ -15,7 +15,7 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 
 ---
 
-## Current Project: Website & App for a wellness & beauty brand
+## Current Project: Web Application for a Wellness & Beauty Brand
 
 ### Technical Architecture & Stack
 
