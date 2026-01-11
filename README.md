@@ -15,25 +15,40 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 
 ## Current Project: Website & App for a wellness & beauty brand
 
-### Done
-- Core Engineering
-    - Frontend: Next.js (App Router), React, Tailwind, CSS (for custom Tailwind classes)
-    - Backend: Typescript, Next.js (Server Actions), Drizzle ORM
-- Planning: Github (Projects & Issues)
-- Design: Figma, Excalidraw
-- Database: PostgreSQL (Dockerised)
-- VPS: Linux (Debian, Ubuntu), Oracle Cloud, other smaller VPS providers
-- CI/CD: Github Actions, Bash scripts, Docker - replaced Vercel
-- Networking: Cloudflare (Zero-Trust Tunnels, DNS, Email forwarding with SPF, DMARC and DKIM), SSL/TLS (Cloudflare & Caddy), Tailscale
-- SEO: Next.js SSG & Caching, Sitemap.xml & Robots.txt, OpenGraph, Structured Data (Compatible with Schema.org & Google Schema Markup via JSON-LD), Cloudflare Edge Caching
-- Analytics: Rybbit, Google Search Console - replaced Vercel
-- Blog: Notion API
+### Technical Architecture & Stack
 
-### TBD (To be developed):
-- internationalisation (i18n)
-- booking application system (considered elysia + bun for API, redis for caching - may stick with Next.js server actions due to VPS limits)
-- speed insights (considering OpenTelemetry + LGTM stack)
-- backup (Restic + Cloudflare R2)
+#### Frontend & UI
+
+* **Framework:** Next.js 16 (App Router) & React 19.
+* **Styling:** Tailwind CSS with custom design system tokens.
+* **Localisation:** Advanced Middleware for Geo-IP detection, automatically routing users to the nearest localised node (`/gb`, `/us`, `/jp`).
+
+**Backend & Data**
+
+* **Runtime:** Bun (Monorepo Workspace).
+* **Data Fetching:** React Server Components (RSC) integrated with Notion API (Headless CMS).
+* **Database:** PostgreSQL (Dockerised) with Drizzle ORM.
+* **Type Safety:** End-to-End TypeScript.
+
+#### Global Infrastructure (DevOps)
+
+* **Strategy:** Self-Hosted Distributed Network (Multi-Region).
+* **Fleet:** Orchestrated across 3 regions: `slc-app-01` (US-West), `tokyo-app-01` (APAC), `fra-hq-01` (EU).
+* **Networking:** Cloudflare Zero-Trust Tunnels (Mesh Network) & Tailscale for secure inter-node communication.
+* **Reverse Proxy:** Caddy / Cloudflare Edge (SSL/TLS).
+* **CI/CD:** Custom Bash deployment engine + GitHub Actions replacing Vercel.
+
+#### Performance & SEO
+
+* **Optimisation:** Next.js Static Site Generation (SSG) with aggressive Edge Caching.
+* **Search:** JSON-LD Structured Data (Schema.org compliant) for Rich Results.
+* **Analytics:** Self-hosted privacy-focused analytics (Rybbit).
+
+### Roadmap (TBD)
+
+* [ ] **Booking API:** High-performance API using Elysia + Bun.
+* [ ] **Observability:** OpenTelemetry + LGTM Stack (Loki, Grafana, Tempo, Mimir).
+* [ ] **Disaster Recovery:** Restic automated backups to Cloudflare R2.
 
 ## All Languages and Tools
 
