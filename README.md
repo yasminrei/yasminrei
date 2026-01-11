@@ -13,6 +13,8 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 [![Twitter](https://img.shields.io/badge/follow%20on-X-black?style=flat-square)](https://twitter.com/YasminReiDev)
 [![Linkedin](https://img.shields.io/badge/connect%20on-linkedin-blue?style=flat-square)](https://www.linkedin.com/in/yasminrei/)
 
+---
+
 ## Current Project: Website & App for a wellness & beauty brand
 
 ### Technical Architecture & Stack
@@ -49,6 +51,8 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 * [ ] **Booking API:** High-performance API using Elysia + Bun.
 * [ ] **Observability:** OpenTelemetry + LGTM Stack (Loki, Grafana, Tempo, Mimir).
 * [ ] **Disaster Recovery:** Restic automated backups to Cloudflare R2.
+
+---
 
 ## All Languages and Tools
 
