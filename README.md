@@ -23,7 +23,7 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 
 * **Framework:** Next.js 16 (App Router) & React 19.
 * **Styling:** Tailwind CSS with custom design system tokens.
-* **Localisation:** Advanced Middleware for Geo-IP detection, automatically routing users to the nearest localised node (`/gb`, `/us`, `/jp`).
+* **Geo-Routing:** Advanced Middleware for Geo-IP detection, automatically routing users to the nearest localised node (`/gb`, `/us`, `/jp`).
 
 **Backend & Data**
 
@@ -51,6 +51,7 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 * [ ] **Booking API:** High-performance API using Elysia + Bun.
 * [ ] **Observability:** OpenTelemetry + LGTM Stack (Loki, Grafana, Tempo, Mimir).
 * [ ] **Disaster Recovery:** Restic automated backups to Cloudflare R2.
+* [ ] **Internationalisation (i18n):** Full Japanese translation implementation for `/jp` routes
 
 ---
 
