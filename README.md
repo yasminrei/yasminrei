@@ -36,6 +36,7 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 
 * **Strategy:** Self-Hosted Distributed Network (Multi-Region)
 * **Fleet:** Orchestrated across 3 regions: `slc-app-01` (US-West), `tokyo-app-01` (APAC), `fra-hq-01` (EU)
+* **Host OS:** Debian / Ubuntu LTS (Hardened)
 * **Networking:** Cloudflare Zero-Trust Tunnels (Mesh Network) & Tailscale for secure inter-node communication
 * **Reverse Proxy:** Caddy / Cloudflare Edge (SSL/TLS)
 * **CI/CD:** Custom Bash deployment engine + GitHub Actions replacing Vercel
