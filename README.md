@@ -6,7 +6,7 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 * 🌱 I’m currently evolving my knowledge on **the frameworks and development tools I already know, and digging into Computer Networking (which utilises knowledge of DevOps & Cybersecurity) by building my own homelab**
 * 💬 Favourite topics include **anything to do with tech - languages, frameworks, development tools, projects. I also love fashion (runway and editorial)**
 * 📫 Reach out to me at **yasmireidev | at | gmail | dot | com**
-* ⚡ My username on social media platforms is usually **@yasminrei or @YasminReiDev**
+* ⚡ My username on social media platforms is usually **@yasminrei or @YasminReiDev**.
 
 ### Connect with me
 
@@ -36,16 +36,19 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 
 * **Strategy:** Self-Hosted Distributed Network (Multi-Region)
 * **Fleet:** Orchestrated across 3 regions: `slc-app-01` (US-West), `tokyo-app-01` (APAC), `fra-hq-01` (EU)
-* **Host OS:** Debian / Ubuntu LTS (Hardened)
+* **Host OS:** Debian / Ubuntu LTS (Hardened Linux environment)
+* **Containerisation:** Docker & Docker Compose
 * **Networking:** Cloudflare Zero-Trust Tunnels (Mesh Network) & Tailscale for secure inter-node communication
 * **Reverse Proxy:** Caddy / Cloudflare Edge (SSL/TLS)
 * **CI/CD:** Custom Bash deployment engine + GitHub Actions replacing Vercel
 
 #### Performance & SEO
 
-* **Optimisation:** Next.js Static Site Generation (SSG) with aggressive Edge Caching
-* **Search:** JSON-LD Structured Data (Schema.org compliant) for Rich Results
+* **Rendering:** Hybrid strategy utilising Static Site Generation (SSG) for core pages and Incremental Static Regeneration (ISR) for dynamic blog content
+* **Data Caching:** Implementation of Next.js Cache components to bypass Notion API latency and reduce Time to First Byte (TTFB)
+* **Search:** JSON-LD Structured Data (Schema.org compliant) for Rich Results and search visibility, and optimised Open Graph (OG) metadata for rich social media previews
 * **Analytics:** Self-hosted privacy-focused analytics (Rybbit)
+* **Assets:** Manual high-fidelity artifact optimisation (WebP) served via Next.js Image component for adaptive sizing and lazy loading.
 
 ### Roadmap (TBD)
 
@@ -53,6 +56,7 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 * [ ] **Observability:** OpenTelemetry + LGTM Stack (Loki, Grafana, Tempo, Mimir)
 * [ ] **Disaster Recovery:** Restic automated backups to Cloudflare R2
 * [ ] **Internationalisation (i18n):** Full Japanese translation implementation for `/jp` routes
+* [ ] **End-to-End Testing:** Implementation of Bun Test and Playwright for critical booking flows.
 
 ---
 
