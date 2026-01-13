@@ -23,14 +23,13 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 
 * **Framework:** Next.js 16 (App Router) & React 19
 * **Styling:** Tailwind CSS with custom design system tokens
-* **Geo-Routing:** Advanced Middleware for Geo-IP detection, automatically routing users to the nearest localised node (`/gb`, `/us`, `/jp`)
 
 **Backend & Data**
 
 * **Runtime:** Bun (Monorepo Workspace)
 * **Data Fetching:** React Server Components (RSC) integrated with Notion API (Headless CMS)
 * **Database:** PostgreSQL (Dockerised) with Drizzle ORM
-* **Type Safety:** End-to-End TypeScript
+* **Type Safety:** End-to-End TypeScript with Zod for runtime schema validation and API type inference
 
 #### Global Infrastructure (DevOps)
 
@@ -41,6 +40,7 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 * **Networking:** Cloudflare Zero-Trust Tunnels (Mesh Network) & Tailscale for secure inter-node communication
 * **Reverse Proxy:** Caddy / Cloudflare Edge (SSL/TLS)
 * **CI/CD:** Custom Bash deployment engine + GitHub Actions replacing Vercel
+* **Edge Logic:** Custom Next.js Middleware for instant Geo-IP detection, routing traffic to the nearest localised node (/gb, /us, /jp) based on Cloudflare headers.
 
 #### Performance & SEO
 
@@ -57,6 +57,10 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 * [ ] **Disaster Recovery:** Restic automated backups to Cloudflare R2
 * [ ] **Internationalisation (i18n):** Full Japanese translation implementation for `/jp` routes
 * [ ] **End-to-End Testing:** Implementation of Bun Test and Playwright for critical booking flows.
+
+### Project Philosophy
+* **Performance First:** Prioritising raw compute speed and asset optimisation over developer convenience.
+* **Vendor Independence:** A fully self-hosted infrastructure designed to eliminate platform lock-in (Vercel/AWS) and reduce operational costs by 90%.
 
 ---
 
