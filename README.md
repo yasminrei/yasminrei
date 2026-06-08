@@ -5,7 +5,7 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 * 🔭 I’m currently working on **a self-hosted Next.js app for a local business**
 * 🌱 I’m currently evolving my knowledge on **the frameworks and development tools I already know, and digging into Computer Networking (which utilises knowledge of DevOps & Cybersecurity) by building my own homelab**
 * 💬 Favourite topics include **anything to do with tech - languages, frameworks, development tools, projects. I also love fashion (runway and editorial)**
-* 📫 Reach out to me at **yasmireidev | at | gmail | dot | com**
+* 📫 Reach out to me at **dev | at | yasminreina | dot | com**
 * ⚡ My username on social media platforms is usually **@yasminrei or @YasminReiDev**.
 
 ### Connect with me
