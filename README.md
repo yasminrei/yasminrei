@@ -50,12 +50,13 @@ I'm a software engineer with a plethora of ideas and an obsession with building
 * **Analytics:** Self-hosted privacy-focused analytics (Rybbit)
 * **Assets:** Manual high-fidelity artifact optimisation (WebP) served via Next.js Image component for adaptive sizing and lazy loading.
 
-### Roadmap (TBD)
+### Roadmap (In progress)
 
-* [ ] **Booking API:** High-performance API using Elysia + Bun
+* [X] **Internationalisation (i18n):** Full Japanese translation implementation for `/jp` routes
+* [X] **Booking API:** High-performance API using Elysia + Bun
+* [ ] **Admin Booking App:** Integrated payments. Built with Tanstack Router. Ported to iOS with Capacitor.
 * [ ] **Observability:** OpenTelemetry + LGTM Stack (Loki, Grafana, Tempo, Mimir)
 * [ ] **Disaster Recovery:** Restic automated backups to Cloudflare R2
-* [ ] **Internationalisation (i18n):** Full Japanese translation implementation for `/jp` routes
 * [ ] **End-to-End Testing:** Implementation of Bun Test and Playwright for critical booking flows.
 
 ### Project Philosophy
